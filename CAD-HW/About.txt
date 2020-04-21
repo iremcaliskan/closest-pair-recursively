@@ -1,0 +1,10 @@
+Homeworker: Irem Caliskan
+For easy control:
+
+javac ClosestPair.java
+
+java ClosestPair < test_100000.input
+java ClosestPair < test_10000.input
+java ClosestPair < test_1000.input
+java ClosestPair < test_100.input
+java ClosestPair < SmallerSet.input
